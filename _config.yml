@@ -1,0 +1,28 @@
+name: Kora LED
+favicon: null
+layout_spectrum: 0.9796827679965645
+typography_spectrum: 0.6416918630711734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6526265693828464
+  lightness: 0.4750889155548066
+  saturation: 0.36261508241295815
+  rhythmicContrast: 0.10249565541744232
+purpose: []

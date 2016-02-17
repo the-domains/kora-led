@@ -1,7 +1,7 @@
 name: Kora LED
 favicon: null
-layout_spectrum: 0.9796827679965645
-typography_spectrum: 0.6416918630711734
+layout_spectrum: 0.4991
+typography_spectrum: 0.48936
 title: Kora LED - Professional quality LED lights for film and TV at indie-friendly prices
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.6526265693828464
-  lightness: 0.4750889155548066
+  lightness: 0
   saturation: 0.36261508241295815
   rhythmicContrast: 0.10249565541744232
 purpose: []

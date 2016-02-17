@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kora LED - Professional quality LED lights for film and TV at indie-friendly prices]]></title>
+        <description><![CDATA[Kora LED - Professional quality LED lights for film and TV at indie-friendly prices]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 19:27:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2195101-c150-421c-ac99-006b59882e8d.jpg">]]></description>
+            <link>undefined9dfc1c9a-697f-4d6f-941e-90c26939f4c1/index.html</link>
+            <guid isPermaLink="false">9dfc1c9a-697f-4d6f-941e-90c26939f4c1</guid>
+            <pubDate>Wed, 17 Feb 2016 19:15:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

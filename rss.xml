@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kora LED - Professional quality LED lights for film and TV at indie-friendly prices]]></title>
         <description><![CDATA[Kora LED - Professional quality LED lights for film and TV at indie-friendly prices]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kora-led/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 19:27:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 00:24:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kora-led/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2458edd2-256c-427c-bc42-7575b945ecf9.jpg">]]></description>
+            <link>https://thegrid.ai/kora-led/eb585c8b-9dbf-41b9-a11a-5ea915b6af5f/index.html</link>
+            <guid isPermaLink="false">eb585c8b-9dbf-41b9-a11a-5ea915b6af5f</guid>
+            <pubDate>Thu, 18 Feb 2016 00:24:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2195101-c150-421c-ac99-006b59882e8d.jpg">]]></description>
-            <link>undefined9dfc1c9a-697f-4d6f-941e-90c26939f4c1/index.html</link>
+            <link>https://thegrid.ai/kora-led/9dfc1c9a-697f-4d6f-941e-90c26939f4c1/index.html</link>
             <guid isPermaLink="false">9dfc1c9a-697f-4d6f-941e-90c26939f4c1</guid>
             <pubDate>Wed, 17 Feb 2016 19:15:02 GMT</pubDate>
         </item>
